@@ -1829,13 +1829,10 @@ net.ipv4.ip_local_port_range = 1024 65535  # Port range
 ❌ ILLEGAL: Participating in booter/stresser services
 ❌ ILLEGAL: Joining or operating a botnet
 
-Bangladesh ICT Act 2006 Section 57 and Cyber Security Act 2023 both
-criminalize unauthorized disruption of computer services. Penalties include
-imprisonment and fines.
 ```
 
 ---
 
-*Notes maintained by: Rasel Hossain | Penetration Testing Intern | Creative IT Institute*
+*Notes maintained by: Rasel Hossain | Penetration Tester*
 *GitHub: github.com/raselhossain79 | TryHackMe: theloser*
-*Last Updated: 2025*
+
