@@ -1836,3 +1836,6 @@ net.ipv4.ip_local_port_range = 1024 65535  # Port range
 *Notes maintained by: Rasel Hossain | Penetration Tester*
 *GitHub: github.com/raselhossain79 | TryHackMe: theloser*
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
